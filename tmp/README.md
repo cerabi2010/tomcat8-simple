@@ -1,0 +1,2 @@
+# simple.war
+test
